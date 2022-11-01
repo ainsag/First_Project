@@ -43,6 +43,7 @@
         android:layout_height="wrap_content"
         android:text="Quick note"
         android:clickable="true"
+        android:onClick="quick_note"
         tools:layout_editor_absoluteX="176dp"
         tools:layout_editor_absoluteY="310dp" />
 
