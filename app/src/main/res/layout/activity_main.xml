@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
+    android:background="#a0ab81"
     >
 
 
@@ -35,6 +36,14 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView"
         app:layout_constraintVertical_bias="0.028"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quick note"
+        tools:layout_editor_absoluteX="176dp"
+        tools:layout_editor_absoluteY="310dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
