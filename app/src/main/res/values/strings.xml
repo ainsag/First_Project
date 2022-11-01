@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">First_Project</string>
+    <string name="login_title">Login to Josparlayq</string>
+    <string name="login_subtitle">
+        <font color="#00C9B8"><b>Login</b></font>
+        if you already have an account
+    </string>
 </resources>
