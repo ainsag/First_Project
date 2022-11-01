@@ -42,6 +42,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Quick note"
+        android:clickable="true"
         tools:layout_editor_absoluteX="176dp"
         tools:layout_editor_absoluteY="310dp" />
 
