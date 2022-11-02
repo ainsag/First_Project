@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ButtonG">
+        <item name="android:background">@drawable/bg_button</item>
+        <item name="android:backgroundTint">@color/teal_700</item>
+        <item name="android:fontFamily">@font/oswald</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

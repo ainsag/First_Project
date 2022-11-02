@@ -2,7 +2,13 @@
     <string name="app_name">First_Project</string>
     <string name="login_title">Login to Josparlayq</string>
     <string name="login_subtitle">
-        <font color="#00C9B8"><b>Login</b></font>
-        if you already have an account
+        <font color="#FF018786"><b>Login</b></font> if you already have an account
     </string>
+    <string name="login_email">Your email or username</string>
+    <string name="login_password">Your password</string>
+    <string name="login_forgotPw">Forgot Password?</string>
+    <string name="dont_have_acc">I don`t have an account <font color="#FF018786"><b>Register</b></font>
+    </string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
 </resources>
